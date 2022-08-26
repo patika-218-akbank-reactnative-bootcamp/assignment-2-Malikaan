@@ -1,1 +1,9 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8276156&assignment_repo_type=AssignmentRepo)
+To start the project firstly you should download Expo Go app from Appstore for Iphone or from Play Store for Android device. Then you should run from CLI;
+
+npm install
+
+This will download the node modules. Then you should run from CLI;
+
+npm start
+
+This will generate a QR code. You can scan the QR with your camera app for Iphone or with Expo Go app for Android device.
